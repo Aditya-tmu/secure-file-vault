@@ -1,0 +1,49 @@
+# Environment variables & secrets
+.env
+.env.local
+.env.*.local
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Encrypted test files & user test data
+*.enc
+*.log
+
+# Personal certificates & credentials
+Internship Certificate Cyber Security .pdf
+*Certificate*
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
